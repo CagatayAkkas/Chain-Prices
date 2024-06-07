@@ -1,0 +1,14 @@
+{
+  "name": "ChainPrices",
+  "version": "1.0.0",
+  "description": "A blockchain based control system.",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd chain-prices-backend && npm start\" \"cd chain-prices-frontend && npm run dev\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
