@@ -1,0 +1,214 @@
+{
+    "ingredients": [
+        {
+            "name": "Sugar",
+            "ingredientId": 0,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Pastorize%20sut%20sertifika.png"
+        },
+        {
+            "name": "Wheat Flour",
+            "ingredientId": 1,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Pastorize%20sut%20sertifika.png"
+        },
+        {
+            "name": "Vegetable Oils",
+            "ingredientId": 2,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Glucose Syrup",
+            "ingredientId": 3,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Pastorize%20sut%20sertifika.png"
+        },
+        {
+            "name": "Whole Milk Powder",
+            "ingredientId": 4,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Cocoa Butter",
+            "ingredientId": 5,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Pastorize%20sut%20sertifika.png"
+        },
+        {
+            "name": "Cocoa Mass",
+            "ingredientId": 6,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Invert Sugar Syrup",
+            "ingredientId": 7,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Whey Powder (Milk)",
+            "ingredientId": 8,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Cocoa Salt",
+            "ingredientId": 9,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Emulsifiers",
+            "ingredientId": 10,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Raising Agents",
+            "ingredientId": 11,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Humectant (Glycerol) Salt",
+            "ingredientId": 12,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Egg White Powder",
+            "ingredientId": 13,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Skimmed Milk Powder",
+            "ingredientId": 14,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Corn Starch",
+            "ingredientId": 15,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Flavorings",
+            "ingredientId": 16,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "May Contain Traces Of Nuts And Peanuts",
+            "ingredientId": 17,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Pasteurized Cow's Milk",
+            "ingredientId": 18,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Pastorize%20sut%20sertifika.png"
+        },
+        {
+            "name": "Water",
+            "ingredientId": 19,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Sunflower Oil",
+            "ingredientId": 20,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Van%20Tuzu%20Sertifika.png"
+        },
+        {
+            "name": "Modified Starches",
+            "ingredientId": 21,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Pasteurized Egg Yolks",
+            "ingredientId": 22,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Mustard Powder",
+            "ingredientId": 23,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Van%20Tuzu%20Sertifika.png"
+        },
+        {
+            "name": "Thickener",
+            "ingredientId": 24,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Preservative",
+            "ingredientId": 25,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Flavourings (Contains Milk)",
+            "ingredientId": 26,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Acidity Regulator",
+            "ingredientId": 27,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Spice Mix",
+            "ingredientId": 28,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Antioxidant",
+            "ingredientId": 29,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Colour",
+            "ingredientId": 30,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Van%20Tuzu%20Sertifika.png"
+        },
+        {
+            "name": "Oat Flakes",
+            "ingredientId": 31,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Cheese Rennet",
+            "ingredientId": 32,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Peynir%20Mayası%20Sertifika.png"
+        },
+        {
+            "name": "Cheese Culture",
+            "ingredientId": 33,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Penir%20Kültürü%20Sertifika.png"
+        },
+        {
+            "name": "Salt",
+            "ingredientId": 34,
+            "origin": "Türkiye",
+            "certificate": "https://bafybeig5kaf7hn7lmda4c4iabndbfl7rfnsrlz2heju5fqdyfymjsb264i.ipfs.dweb.link/Van%20Tuzu%20Sertifika.png"
+        }
+    ]
+}
