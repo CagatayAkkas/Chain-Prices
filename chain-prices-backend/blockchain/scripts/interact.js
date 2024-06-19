@@ -1,9 +1,9 @@
 import { ethers } from "./ethers-5.6.esm.min.js";
 
 const contractAddress = "0xE61e3151b10b689822E7F5fEdcF243ffD80c06b3";
-// https://api-sepolia.etherscan.io/api?module=logs&action=getLogs&fromBlock=0&toBlock=latest&address=0xE61e3151b10b689822E7F5fEdcF243ffD80c06b3&api_key=AsRLVXZLZMPKrruB1nFRRSGfSquRWJtA
+// https://api-sepolia.etherscan.io/api?module=logs&action=getLogs&fromBlock=0&toBlock=latest&address=0xE61e3151b10b689822E7F5fEdcF243ffD80c06b3&api_key=
 const privateKey =
-  "b54c98a545e24a6a4c7e0c0fd4c228e60c1e77cb09e29564e7463d7670273a4e";
+  "";
 const provider = new ethers.providers.JsonRpcProvider(
   "https://eth-sepolia.g.alchemy.com/v2/AsRLVXZLZMPKrruB1nFRRSGfSquRWJtA"
 );
