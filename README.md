@@ -28,7 +28,7 @@
 # Quickstart
 
 ```bash
-git clone https://github.com/emrebdr/chain-prices-backend.git
+git clone https://github.com/CagatayAkkas/Chain-Prices
 npm run dev
 npm start
 ```
